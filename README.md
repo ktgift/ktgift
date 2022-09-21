@@ -1,4 +1,11 @@
-### Hi there 👋
+# I'm Kavisara Thisakobsuk, Welcome to My github. :blush:
+ สวัสดีค่ะ ชื่อกิฟท์ เป็น web developer น้องใหม่ ชื่นชอบการเขียน Reactjs, CSS, Bootstrap, Express Node.js ปัจจุบันกำลังศึกษา full stack javascript กับ codecamp Thailand  
+
+***เป็นคนรักที่จะเรียนรู้ พัฒนาตนเอง มีความใฝ่ฝันที่จะทำงานสาย DEV***
+
+- 🌱 I’m currently learning Reactjs, CSS, Bootstrap, Express Node.js
+
+
 
 <!--
 **ktgift/ktgift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
